@@ -52,6 +52,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meou2k4&show_icons=true&theme=radical&cache_seconds=86400&v=1" alt="meou2k4's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meou2k4&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Langs" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=meou2k4&theme=radical" alt="GitHub Streak" width="100%"/>
 </p>
