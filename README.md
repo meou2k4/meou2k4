@@ -1,56 +1,61 @@
-<h1 align="center">Hi there, I'm Nguyễn Nhật Hưng 👋</h1>
-<h3 align="center">Fresher Tester @ INFINIQ | Intern Developer (C# API)</h3>
+<h1 align="center">Nguyen Nhat Hung</h1>
+<p align="center"><strong>QA Engineer | Backend Developer (.NET / C#) | AI & E-commerce Product Work</strong></p>
 
 <p align="center">
-  Một người đam mê công nghệ với định hướng phát triển phần mềm chất lượng cao, từ việc xây dựng các hệ thống Backend bằng C# vững chắc cho đến việc áp dụng các mô hình AI vào thực tiễn.
+  I focus on software quality, backend services, and practical product delivery.
+  My work spans testing, API development, and AI-enabled features for real business use cases.
 </p>
 
 <p align="center">
   <a href="https://athea.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Website_Cá_Nhân-0052CC?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website Athea.vn"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.facebook.com/hung.nguyennhat.311/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com/channels/@hungmeomun" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://github.com/meou2k4?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
----
+## Professional Summary
 
-### 👨‍💻 Về bản thân mình
+I work at the intersection of software testing and backend engineering. My background includes building and validating C#/.NET APIs, contributing to TypeScript-based product work, and supporting AI and e-commerce projects with a strong focus on reliability, maintainability, and delivery quality.
 
-- 🔭 Hiện tại mình đang tập trung vào mảng **Testing** và phát triển **C# API**.
-- 💼 Từng tham gia phát triển Backend cho hệ thống đặt lịch **AIojo Booking**.
-- 💡 Mình có kinh nghiệm làm việc với **TypeScript/JavaScript** qua các dự án tích hợp AI và E-commerce.
-- 🎓 Đã hoàn thành Đồ án tốt nghiệp với hệ thống **T7M** (FE/BE).
-- 🤝 **Kết nối**: Mình luôn cởi mở và sẵn sàng hợp tác trong các dự án công nghệ mới. Ngoài ra, nếu bạn cần một "đồng râm" để chạy ải hay leo rank, đừng ngại ping mình nhé!
-- ⚡ **Fun fact**: Khi không code, mình thích custom bàn phím cơ, chơi *Wuthering Waves*, *Honkai: Star Rail* và nghe nhạc J-pop/City Pop.
+## Focus Areas
 
-### 🛠 Tech Stack
+- Quality assurance and software testing
+- Backend API development with C#/.NET
+- Practical AI integrations for product workflows
+- E-commerce and booking systems
+
+## Selected Projects
+
+- [T7M Graduation Project - Frontend](https://github.com/meou2k4/DATN-FE) and [Backend](https://github.com/meou2k4/DATN-BE): Full-stack e-commerce system developed for a graduation project.
+- [athea-creative-director-ai](https://github.com/meou2k4/athea-creative-director-ai): TypeScript project applying AI to creative and product workflows.
+- AIojo Booking: Backend contribution for a business booking platform.
+- [ATHEAShop](https://github.com/meou2k4/ATHEAShop) and [Athea-FashionShop](https://github.com/meou2k4/Athea-FashionShop): E-commerce implementations focused on business workflows and storefront experiences.
+- [DuAnBanGiay](https://github.com/meou2k4/DuAnBanGiay) and [DuAnThuVien](https://github.com/meou2k4/DuAnThuVien): C# projects built around backend logic, system structure, and application workflows.
+
+## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Testing-FF0000?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing" />
+  <img src="https://img.shields.io/badge/C%23-5B21B6?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-EF4444?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Quality%20Assurance-DC2626?style=for-the-badge&logoColor=white" alt="Quality Assurance" />
 </p>
 
-### 🚀 Các dự án nổi bật
+## Current Direction
 
-* **[Đồ án tốt nghiệp T7M (FE)](https://github.com/meou2k4/DATN-FE) & [(BE)](https://github.com/meou2k4/DATN-BE)**: Hệ thống website thương mại được xây dựng hoàn chỉnh cho đồ án tốt nghiệp.
-* **[athea-creative-director-ai](https://github.com/meou2k4/athea-creative-director-ai)**: Dự án ứng dụng trí tuệ nhân tạo (TypeScript).
-* **AIojo Booking**: Phát triển hệ thống Backend đặt lịch cho Joco Vietnam.
-* **Hệ thống E-Commerce**: Tham gia xây dựng [Athea-FashionShop](https://github.com/meou2k4/Athea-FashionShop) và [ATHEAShop](https://github.com/meou2k4/ATHEAShop).
-* **Ứng dụng Quản lý (C#)**: Phát triển các hệ thống Backend như [DuAnBanGiay](https://github.com/meou2k4/DuAnBanGiay) và [DuAnThuVien](https://github.com/meou2k4/DuAnThuVien).
+- Strengthening QA processes and release confidence
+- Building cleaner and more maintainable backend services
+- Expanding AI use cases that solve real business problems
 
----
-
-### 📊 GitHub Stats
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=meou2k4&theme=radical" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meou2k4&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=meou2k4&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
