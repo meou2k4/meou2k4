@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/hung.nguyennhat.311/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.com/channels/@hungmeomun" target="_blank">
+  <a href="https://discord.com/channels/@hungmeomun](https://discordapp.com/users/756857351117733958" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
