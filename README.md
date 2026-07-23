@@ -48,3 +48,61 @@ public class Developer
     };
     public string CurrentGoal => "Elevating software reliability & building high-performance backend APIs";
 }
+```
+
+- 🎯 **Chuyên Môn Cốt Lõi**: Kiểm thử chất lượng phần mềm (QA), Xây dựng API Backend với C#/.NET, và ứng dụng AI vào thực tế sản phẩm.
+- 🧪 **Kinh Nghiệm QA**: Đảm bảo tính ổn định của sản phẩm qua các quy trình Test kế hoạch, Test API, E2E và Regression.
+- ⚡ **Triết Lý Làm Việc**: Code rõ ràng, kiến trúc hệ thống bền vững, tập trung mang lại giá trị thực tế cho doanh nghiệp.
+
+---
+
+### 🛠️ Kỹ Năng & Công Nghệ (Tech Stack)
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">⚙️ Backend & Core Languages</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🛡️ Quality Assurance & Testing</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/QA_Automation-00C7B7?style=flat-square&logo=testing-library&logoColor=white" alt="QA Automation" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/API_Testing-2563EB?style=flat-square&logo=insomnia&logoColor=white" alt="API Testing" />
+        <img src="https://img.shields.io/badge/xUnit%2FnUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit/nUnit" />
+        <img src="https://img.shields.io/badge/Manual_Testing-4B5563?style=flat-square&logo=checkmarx&logoColor=white" alt="Manual Testing" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Dự Án Tiêu Biểu & Sản Phẩm Nổi Bật
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 TTM Graduation Project & Booking Platform</h4>
+      <p>Hệ thống e-commerce full-stack và booking platform phát triển cho đồ án tốt nghiệp với kiến trúc backend C#/.NET tối ưu.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 athea-creative-director-ai</h4>
+      <p>Dự án TypeScript ứng dụng AI tự động hóa workflow sáng tạo và hỗ trợ tạo nội dung sản phẩm.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meou2k4&color=6366f1&style=for-the-badge&label=PROFILE_VIEWS" />
+</div>
