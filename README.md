@@ -1,64 +1,50 @@
-<h1 align="center">Nguyen Nhat Hung</h1>
-<p align="center"><strong>QA Engineer | Backend Developer (.NET / C#) | AI & E-commerce Product Work</strong></p>
+<div align="center">
 
-<p align="center">
-  I focus on software quality, backend services, and practical product delivery.
-  My work spans testing, API development, and AI-enabled features for real business use cases.
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=220&section=header&text=Nguyễn%20Nhật%20Hưng&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=QA%20Engineer%20%7C%20Backend%20Developer%20(.NET/C%23)%20%7C%20AI%20Integrator&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <a href="https://athea.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <br/>
+
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=QA+Engineer+%26+Software+Testing;Backend+Developer+(.NET+%2F+C%23+%2F+EF+Core);Integrating+AI+into+Real-World+Products;Building+Scalable+E-Commerce+%26+Booking+Systems" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/meou2k4?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+
+  <br/><br/>
+
+  <!-- Quick Action Links / Badges -->
+  <a href="https://meou2k4.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.facebook.com/hung.nguyennhat.311/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-</p>
+  <a href="mailto:hung.nguyennhat@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/meou2k4?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
 
-## Professional Summary
+</div>
 
-I work at the intersection of software testing and backend engineering. My background includes building and validating C#/.NET APIs, contributing to TypeScript-based product work, and supporting AI and e-commerce projects with a strong focus on reliability, maintainability, and delivery quality.
+<br/>
 
-## Focus Areas
+---
 
-- Quality assurance and software testing
-- Backend API development with C#/.NET
-- Practical AI integrations for product workflows
-- E-commerce and booking systems
+### 👨‍💻 Giới Thiệu & Định Hướng Professional
 
-## Selected Projects
-
-- [T7M Graduation Project - Frontend](https://github.com/meou2k4/DATN-FE) and [Backend](https://github.com/meou2k4/DATN-BE): Full-stack e-commerce system developed for a graduation project.
-- [athea-creative-director-ai](https://github.com/meou2k4/athea-creative-director-ai): TypeScript project applying AI to creative and product workflows.
-- AIojo Booking: Backend contribution for a business booking platform.
-- [ATHEAShop](https://github.com/meou2k4/ATHEAShop) and [Athea-FashionShop](https://github.com/meou2k4/Athea-FashionShop): E-commerce implementations focused on business workflows and storefront experiences.
-- [DuAnBanGiay](https://github.com/meou2k4/DuAnBanGiay) and [DuAnThuVien](https://github.com/meou2k4/DuAnThuVien): C# projects built around backend logic, system structure, and application workflows.
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-5B21B6?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-EF4444?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Quality%20Assurance-DC2626?style=for-the-badge&logoColor=white" alt="Quality Assurance" />
-</p>
-
-## Current Direction
-
-- Strengthening QA processes and release confidence
-- Building cleaner and more maintainable backend services
-- Expanding AI use cases that solve real business problems
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meou2k4&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=meou2k4&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+```csharp
+public class Developer 
+{
+    public string Name => "Nguyễn Nhật Hưng";
+    public string Role => "QA Engineer & Backend (.NET / C#) Developer";
+    public string[] FocusAreas => new[] 
+    { 
+        "Quality Assurance & Test Automation", 
+        "C# / .NET Web API Architecture", 
+        "Practical AI Workflows Integration", 
+        "E-Commerce & Booking Systems" 
+    };
+    public string CurrentGoal => "Elevating software reliability & building high-performance backend APIs";
+}
